@@ -1,34 +1,5 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "apikey = \"729CDIT3SH4O6AZF\""
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.6.10"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
+# OpenWeatherMap API Key
+weather_api_key = "335521b35734fcc972cb824b513189f4"
+
+# Google API Key
+g_key = "AIzaSyCcr8Zvsu8JxQnfdH-24uaEGS6KD3lmoZQ"
